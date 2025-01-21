@@ -3,8 +3,19 @@
 - Create React App
 - Configured TailwindCSS
 - Header
+- Routing of App
 - Login Form
 - Sign Up Form
+- Form Validation
+- useRef hook
+- Firebase setup
+- Deployimg App to Production
+- Create SignUp User Account
+- Implement Sign In user API
+- Created Redux Store with useSlice
+- Implemented Sign Out
+- Update Profile API Call
+- Fetch from TMDB Movies
 
 # features of NetflixGPT
 
