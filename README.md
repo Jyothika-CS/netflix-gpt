@@ -30,6 +30,11 @@
 - Embedded the Youtube Video and make it autoplay and mute
 - Tailwind Classes to make MainContainer look awesome
 - Build SecondaryComponent
+- Build Movie List
+- Build Movie Card
+- TMDB Image CDN URL
+- Used Tailwind CSS to Browse page to enhance the look
+- usePopularMovies, useTopRatedMovies, useUpcomingMovies custom hook
 
 # features of NetflixGPT
 
