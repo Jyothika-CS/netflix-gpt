@@ -35,6 +35,10 @@
 - TMDB Image CDN URL
 - Used Tailwind CSS to Browse page to enhance the look
 - usePopularMovies, useTopRatedMovies, useUpcomingMovies custom hook
+- GPT Search feature
+- GPT Search Page
+- GPT Search BAr
+- (*) Multi-language Feature in the App
 
 # features of NetflixGPT
 

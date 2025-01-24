@@ -8,11 +8,18 @@ export const USER_AVTAR =
   "https://occ-0-6096-2164.1.nflxso.net/dnm/api/v6/vN7bi_My87NPKvsBoib006Llxzg/AAAABTZ2zlLdBVC05fsd2YQAR43J6vB1NAUBOOrxt7oaFATxMhtdzlNZ846H3D8TZzooe2-FT853YVYs8p001KVFYopWi4D4NXM.png?r=229";
 
 export const API_OPTIONS = {
-  method: 'GET',
+  method: "GET",
   headers: {
-    accept: 'application/json',
-    Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI2NWViYjkxZGUzNzdmMmY5ZjllOTU3YTExNDY2ZWRkZSIsIm5iZiI6MTczNzUyODQ4NS43ODksInN1YiI6IjY3OTA5NGE1YmQ1MTdjNzQzOGRmZjQ0ZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.X6Zn5uRIH_aDxvp8RcB8nzTVq0gn37Wu9O9cti_I9qA'
-  }
+    accept: "application/json",
+    Authorization:
+      "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI2NWViYjkxZGUzNzdmMmY5ZjllOTU3YTExNDY2ZWRkZSIsIm5iZiI6MTczNzUyODQ4NS43ODksInN1YiI6IjY3OTA5NGE1YmQ1MTdjNzQzOGRmZjQ0ZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.X6Zn5uRIH_aDxvp8RcB8nzTVq0gn37Wu9O9cti_I9qA",
+  },
 };
 
 export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w500/";
+
+export const SUPPORTED_LANG = [
+  { identifier: "en", name: "English" },
+  { identifier: "hindi", name: "Hindi" },
+  { identifier: "spanish", name: "Spanish" },
+];
